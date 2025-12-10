@@ -1,2 +1,2 @@
-Edit fragt Git
+Edit fra Git
 Edit fra R
